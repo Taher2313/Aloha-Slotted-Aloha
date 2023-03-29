@@ -4,10 +4,10 @@ The task involves simulating the unslotted/slotted aloha protocols in Python. Th
 
 ## Throughput vs Number of Stations
 
-![Screenshot 2023-03-29 at 5.45.20 PM.png](Aloha%20&%20Slotted%20Aloha%200cfb57dc7b554d80a236fca1df7db26c/Screenshot_2023-03-29_at_5.45.20_PM.png)
+![Screenshot_2023-03-29_at_5 45 20_PM](https://user-images.githubusercontent.com/126264845/228596023-22aef672-82d6-4224-ad39-8cd7cc8dc747.png)
 
-![Screenshot 2023-03-29 at 5.45.47 PM.png](Aloha%20&%20Slotted%20Aloha%200cfb57dc7b554d80a236fca1df7db26c/Screenshot_2023-03-29_at_5.45.47_PM.png)
+![Screenshot_2023-03-29_at_5 45 47_PM](https://user-images.githubusercontent.com/126264845/228596039-319450b5-2537-4a9c-9395-a7249ce5b472.png)
 
 ## Throughput vs Frame Time
 
-![Screenshot 2023-03-29 at 5.46.37 PM.png](Aloha%20&%20Slotted%20Aloha%200cfb57dc7b554d80a236fca1df7db26c/Screenshot_2023-03-29_at_5.46.37_PM.png)
+![Screenshot_2023-03-29_at_5 46 37_PM](https://user-images.githubusercontent.com/126264845/228596086-1f75c0e6-4f5f-485f-b27b-4354f98f7a89.png)
